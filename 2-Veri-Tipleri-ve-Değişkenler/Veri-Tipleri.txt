@@ -1,0 +1,12 @@
+"""
+
+Python Veri Türleri
+
+	1)Sayılar(number)
+	2)String(Karakter)
+	3)List(Listeler)
+	4)Tuple(Demetler)
+	5)Dictionary(Sözlükler)
+	6)Sets(Kümeler)
+
+"""
